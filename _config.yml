@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: 'https://cdn.venompool.fun:8080'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/venompool.jpg"
+avatar: '/venompool.jpg'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
