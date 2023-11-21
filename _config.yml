@@ -23,10 +23,10 @@ title: Venompool's Blog # the main title
 tagline: 专注于回答力所能及的问题 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  讲点看起来很酷的“生活小妙招”吧~
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://venompool.fun:7755"
+url: "https://blog.venompool.fun"
 
 github:
   username: Venompool888 # change to your github username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://img1.imgtp.com/2023/08/05/iK3l3d0S.jpg"
+avatar: "https://avatars.githubusercontent.com/u/94547252?v=4"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
